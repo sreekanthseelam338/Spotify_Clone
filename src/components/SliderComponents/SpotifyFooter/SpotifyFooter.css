@@ -1,0 +1,24 @@
+#FooterBlock {
+  height: 100vh;
+  background-color: #000;
+  color: #fff;
+}
+#FooterBlock article {
+  display: flex;
+  width: 60%;
+  margin: 0 auto;
+}
+#FooterBlock article div {
+  padding: 30px;
+}
+#FooterBlock article ul {
+  display: flex;
+  color: #fff;
+  list-style: none;
+  text-decoration: none;
+}
+#FooterBlock article ul a {
+  color: #fff;
+  text-decoration: none;
+  padding: 26px 13px;
+}
